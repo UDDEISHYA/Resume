@@ -1,10 +1,8 @@
 ### 👋 Welcome!
 
-I’m **Uddeishya Kumar** — final-year B.Tech (CSE) @ VIT, Harvard CORe grad, and builder of AI-driven workflows that turn manual grind into 75 % faster insights.
+Thanks for stopping by my resume hub on GitHub! I’m **Uddeishya Kumar**—a builder who loves turning complex workflows into simple, human-friendly solutions.
 
-**What you’ll find here**
-- *Projects*: generative-AI assistants, data pipelines, and safety chatbots  
-- *Résumé*: [`resume.pdf`](./UDDEISHYA%20KUMAR%20Resume.pdf) for a quick skim  
-- *Writing*: book excerpts & prompt-engineering guides
+- **[View my résumé](https://drive.google.com/file/d/1J-yZfJJpoMv8ec_0WH3FLoLdbq1Mh3bc/view?usp=sharing)** for a quick overview.  
+- **[Say hello on LinkedIn](https://www.linkedin.com/in/uddeishya-kumar-130283253/)** or open an issue if anything sparks your interest.
 
-Feel free to fork, star, or reach out on [LinkedIn](https://linkedin.com/in/uddeishya-kumar-130283253) — always up for shipping ideas at startup speed!
+Enjoy your visit, and have a fantastic day! 😊
